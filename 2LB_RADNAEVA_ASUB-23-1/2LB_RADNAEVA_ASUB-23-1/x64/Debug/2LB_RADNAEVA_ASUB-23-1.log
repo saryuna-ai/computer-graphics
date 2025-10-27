@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\source\repos\2LB_RADNAEVA_ASUB-23-1\2LB_RADNAEVA_ASUB-23-1\main.cpp(155,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  2LB_RADNAEVA_ASUB-23-1.vcxproj -> C:\Users\User\source\repos\2LB_RADNAEVA_ASUB-23-1\x64\Debug\2LB_RADNAEVA_ASUB-23-1.exe
